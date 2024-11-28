@@ -269,7 +269,7 @@ li:not(:last-child) {
   width: 15px;
   height: 15px;
   background-color: white;
-  object-position: center;
+  object-position: center; 
 }
 
 .search-form__label:has(focus-visible) {
